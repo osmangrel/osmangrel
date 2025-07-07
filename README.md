@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **BE Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
